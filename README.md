@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yakshith K D
-- 👀 I’m interested in ...Engineering
-- 🌱 I’m currently learning ...AiML
-- 💞️ I’m looking to collaborate on ...Ai Technology
+- 👀 I’m interested in AIML
+- 🌱 I’m currently learning C pgm
+- 💞️ I’m looking to collaborate on ...Ai-Technology
 - 📫 How to reach me ...Linkedin
 - 😄 Pronouns: ...Yakshii Gowda
 - ⚡ Fun fact: ...

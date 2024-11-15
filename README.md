@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ...Yakshith K D
-- 👀 I’m interested in ...AIML
-- 🌱 I’m currently learning ...C pgm
+- 👀 I’m interested in ...Deep Learning
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Ai-Technology
 - 📫 How to reach me ...Linkedin
 - 😄 Pronouns: ...Yakshii Gowda

@@ -9,9 +9,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building: **CureBlend AI** - An AI-powered medical assistant blending Ayurveda and Western medicine  
-- 🌱 Learning: Advanced Deep Learning, TensorFlow, Docker, NLP  
-- 🧠 Interned at: Prasunet Company (SwachhaShabda-AI: AI Noise Reduction System)  
+- 🔭 Currently building: **CureBlend AI** - An AI-powered medical assistant app
+- 🌱 Learning: Advanced Deep Learning, TensorFlow
 - 🏆 Finalist at: MoEFCC x Amazon Future Eco Hackathon 2025  
 - ⚡ Fun fact: I enjoy combining traditional Indian healthcare with modern AI!
 
@@ -54,10 +53,8 @@
 
 <p>
   <a href="mailto:yakshithkd97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yakshithkd23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yakshithkd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/yakshithkd23"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
-
-⚡ _“Empowering healthcare with the fusion of ancient wisdom and AI precision.”_

@@ -7,12 +7,10 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 Currently building: **CureBlend AI** – An AI-powered medical assistant app  
-- 🌱 Learning: Advanced Deep Learning, TensorFlow  
+### 👨‍💻 About Me 
+- 🌱 Learninkg: Advanced Deep Learning, TensorFlow  
 - 🏆 Finalist at: MoEFCC x Amazon Future Eco Hackathon 2025  
-- ⚡ Fun fact: I'm a creative ideator and chronic overthinker who loves merging ancient wisdom with cutting-edge AI!  
+- ⚡ Fun fact: I'm a creative ideator and chronic overthinker.
 
 ---
 

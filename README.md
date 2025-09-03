@@ -35,8 +35,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gradio](https://img.shields.io/badge/Gradio-3C5280?style=for-the-badge&logo=gradio&logoColor=white)
-![Edge Impulse](https://img.shields.io/badge/EdgeImpulse-01C5B5?style=for-the-badge&logo=edgeimpulse&logoColor=black)
-![TinyML](https://img.shields.io/badge/TinyML-00ACEE?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### 🛠 DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)

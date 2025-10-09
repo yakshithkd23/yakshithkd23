@@ -47,5 +47,3 @@
   <a href="https://www.linkedin.com/in/yakshithkd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/yakshithkd23"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-[![Hacktoberfest 2025](https://www.holopin.io/hacktoberfest2025/userbadge/cmgdha6io0027jg048zsfey2s)](https://www.holopin.io/hacktoberfest2025/userbadge/cmgdha6io0027jg048zsfey2s)

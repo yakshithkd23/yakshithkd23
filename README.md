@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Yakshith K D 👋</h1>
 
-<h3 align="center">🚀 AIML Undergrad · ML & GenAI Enthusiast · Full Stack Developer · Hackathon Finalist</h3>
+<h3 align="center">🚀 AIML Undergrad · ML & GenAI Enthusiast · Full Stack Developer · Hackathon Finalist .Open-source contributor </h3>
 
 
 <p align="center">
@@ -12,12 +12,6 @@
 ### 🤝 Let's Connect
 
 I love talking about AI, building cool things, and solving real-world problems. If you're working on something interesting or just want to chat — reach out!
-
-- 📧 [yakshithkd97@gmail.com](mailto:yakshithkd97@gmail.com)
-- 💼 [linkedin.com/in/yakshithkd](https://www.linkedin.com/in/yakshithkd/)
-- 🐙 [github.com/yakshithkd23](https://github.com/yakshithkd23)
-
----
 
 <p align="center">
   <i>Built with curiosity · Fuelled by caffeine · Powered by overthinking ☕</i>

@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Yakshith K D 👋</h1>
 
-<h3 align="center">🚀  ML & GenAI Enthusiast · Full Stack Developer · Hackathon Finalist</h3>
+<h3 align="center">🚀  ML & GenAI Enthusiast · Full Stack Developer · Ideator </h3>
 
 <p align="center">
   <a href="mailto:yakshithkd97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

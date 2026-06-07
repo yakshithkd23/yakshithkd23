@@ -1,14 +1,20 @@
-<h1 align="center">👋 Hey there, I'm Yakshith K D</h1>
-<h3 align="center">🚀 AIML Undergrad | ML & GenAI Enthusiast | Full Stack Developer| Hackathon Finalist</h3>
+<h1 align="center">Hey there, I'm Yakshith K D 👋</h1>
 
+<h3 align="center">🚀 AIML Undergrad · ML & GenAI Enthusiast · Full Stack Developer · Hackathon Finalist</h3>
 
+<p align="center">
+  <a href="mailto:yakshithkd97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yakshithkd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/yakshithkd23"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-### 👨‍💻 About Me 
-- 🌱 Learninkg: Advanced Deep Learning, TensorFlow  
-- 🏆 Finalist at: MoEFCC x Amazon Future Eco Hackathon 2025  
-- ⚡ Fun fact: I'm a creative ideator and chronic overthinker.
+### 👨‍💻 About Me
+
+- 🌱 Currently learning: **Advanced Deep Learning & TensorFlow**
+- 🏆 Finalist at: **MoEFCC × Amazon Future Eco Hackathon 2025**
+- ⚡ Fun fact: I'm a creative ideator and a chronic overthinker — often both at once.
 
 ---
 
@@ -28,7 +34,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🧠 AI & ML Tools
+#### 🤖 AI & ML Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -40,10 +46,29 @@
 
 ---
 
-### 🌐 Connect with Me
+### 📊 GitHub Stats
 
-<p>
-  <a href="mailto:yakshithkd97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yakshithkd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/yakshithkd23"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yakshithkd23&show_icons=true&theme=tokyonight&hide_border=true" alt="Yakshith's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshithkd23&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakshithkd23&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I love talking about AI, building cool things, and solving real-world problems. If you're working on something interesting or just want to chat — reach out!
+
+- 📧 [yakshithkd97@gmail.com](mailto:yakshithkd97@gmail.com)
+- 💼 [linkedin.com/in/yakshithkd](https://www.linkedin.com/in/yakshithkd/)
+- 🐙 [github.com/yakshithkd23](https://github.com/yakshithkd23)
+
+---
+
+<p align="center">
+  <i>Built with curiosity · Fuelled by caffeine · Powered by overthinking ☕</i>
 </p>

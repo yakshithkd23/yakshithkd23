@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Yakshith K D 👋</h1>
+<h1 align="center">Hey there, I'm Yakshith K D 👋</h1>  
    
 <h3 align="center">🚀 AIML Undergrad · ML & GenAI Enthusiast · Full Stack Developer · Hackathon Finalist .Open-source contributor </h3>
 
